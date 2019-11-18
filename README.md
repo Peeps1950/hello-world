@@ -1,2 +1,2 @@
 # hello-world
-Lossing my way a little
+Loosing my way a little
