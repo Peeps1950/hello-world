@@ -1,2 +1,2 @@
 # hello-world
-Second attempt at repository
+Lossing my way a little
